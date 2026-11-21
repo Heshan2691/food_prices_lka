@@ -1,0 +1,47 @@
+admin1,category,avg_price,median_price,records
+Central,cereals and tubers,264.95,239.0,361
+Central,"meat, fish and eggs",1371.0,1240.0,937
+Central,miscellaneous food,903.98,837.15,98
+Central,pulses and nuts,664.05,686.4,379
+Central,vegetables and fruits,301.96,272.0,1253
+Eastern,cereals and tubers,262.06,235.46,344
+Eastern,"meat, fish and eggs",1358.78,1240.0,819
+Eastern,miscellaneous food,887.09,819.24,96
+Eastern,pulses and nuts,648.73,665.62,381
+Eastern,vegetables and fruits,316.3,286.67,1190
+North Central,cereals and tubers,245.33,230.0,301
+North Central,"meat, fish and eggs",1366.38,1237.5,828
+North Central,miscellaneous food,909.53,849.25,92
+North Central,pulses and nuts,650.73,682.4,343
+North Central,vegetables and fruits,320.16,292.0,1149
+North Western,cereals and tubers,266.38,235.0,252
+North Western,"meat, fish and eggs",1299.03,1187.5,673
+North Western,miscellaneous food,898.08,844.0,69
+North Western,pulses and nuts,668.31,700.62,254
+North Western,vegetables and fruits,327.23,300.21,826
+Northern,cereals and tubers,239.94,235.5,333
+Northern,"meat, fish and eggs",1217.32,1160.0,864
+Northern,miscellaneous food,889.92,823.52,110
+Northern,pulses and nuts,660.73,682.75,434
+Northern,vegetables and fruits,309.49,278.0,1413
+Sabaragamuwa,cereals and tubers,260.22,235.5,263
+Sabaragamuwa,"meat, fish and eggs",1460.02,1338.0,682
+Sabaragamuwa,miscellaneous food,918.12,854.33,73
+Sabaragamuwa,pulses and nuts,653.59,650.62,292
+Sabaragamuwa,vegetables and fruits,308.18,287.0,911
+Southern,cereals and tubers,264.07,238.33,320
+Southern,"meat, fish and eggs",1379.72,1294.75,775
+Southern,miscellaneous food,909.09,845.48,94
+Southern,pulses and nuts,676.38,696.0,374
+Southern,vegetables and fruits,314.49,290.0,1155
+Uva,cereals and tubers,247.94,230.0,350
+Uva,"meat, fish and eggs",1395.11,1281.66,1154
+Uva,miscellaneous food,888.99,822.0,123
+Uva,pulses and nuts,643.04,636.0,450
+Uva,vegetables and fruits,300.22,274.93,1535
+Western,cereals and tubers,278.83,241.98,378
+Western,"meat, fish and eggs",1432.85,1250.0,933
+Western,miscellaneous food,947.38,903.12,100
+Western,oil and fats,538.68,539.66,5
+Western,pulses and nuts,701.37,702.18,398
+Western,vegetables and fruits,332.03,314.4,1262

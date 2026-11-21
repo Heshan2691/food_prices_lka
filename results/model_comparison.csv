@@ -1,0 +1,8 @@
+Model,Category,MAE (LKR),RMSE (LKR),R2 Score,MAPE (%)
+XGBoost,Boosting,69.79,111.63,0.9719,13.63
+Stacking (RF+XGB+LGBM),Stacking,68.64,112.35,0.9716,12.8
+CatBoost,Boosting,71.8,112.77,0.9714,14.83
+LightGBM,Boosting,70.63,113.84,0.9708,13.64
+LightGBM (Tuned),Boosting (Tuned),71.19,115.56,0.9699,13.74
+Random Forest,Bagging,70.91,117.36,0.969,12.65
+Hybrid (RF + ANN),Hybrid,77.16,123.83,0.9655,14.36
